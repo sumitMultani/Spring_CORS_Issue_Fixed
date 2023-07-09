@@ -1,0 +1,6 @@
+cors:
+  allowedOrigin: '*'
+  allowedMethods: '*'
+  allowedHeaders: '*'
+  allowedCredentials: false
+  corsConfiguration: '/**'
